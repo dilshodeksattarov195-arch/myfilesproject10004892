@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderfync",
+        "uuid": 44204112,
+        "checksum": "7gd4dc"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
